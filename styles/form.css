@@ -1,0 +1,48 @@
+input, textarea {
+  display: block;
+  }
+
+
+.division6{
+   background-image: url("../images/cuinera2.jpeg");
+    background-size: cover;
+    height: 100vh
+  }
+
+
+.reservation {
+  margin-left:200px;
+  }
+ 
+
+.btn-blue2{
+  color: white;
+  background-color: #FF9601;
+  border-radius: 6px;
+  padding: 5px 10px;
+  margin: 60px 30px; 
+  }
+
+
+.btn-blue2:hover {
+  background-color: white;
+  color: #FF9601;
+  transition: 0,5s;
+  border: 1px solid #FF9601;
+  }
+
+
+#engagement{
+  padding-top: 50px;
+  font-size: 22px;
+  color: black;
+  text-align: center;
+  }
+
+
+#engagement2{
+  color: black;
+  text-align: center;
+  font-size: 18px;
+  padding-bottom: 30px;
+  }
